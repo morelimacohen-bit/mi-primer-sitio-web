@@ -1,0 +1,40 @@
+/* Tema Vintage / Cálido */
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    background-color: #E090CF;
+    color: #283618;
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 25px;
+}
+
+h1 {
+    color: #9C6E92;
+    text-align: center;
+}
+
+h2 {
+    color: #606c38;
+    border-bottom: 2px dashed #9C6E92;
+    padding-bottom: 6px;
+}
+
+ul, .card {
+    background-color: #E090CF;
+    padding: 18px 25px;
+    border-radius: 4px;
+    border: 2px solid #dda15e;
+}
+
+li { margin-bottom: 8px; }
+
+a {
+    color: #9C6E92;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #606c38;
+    text-decoration: underline;
+}
